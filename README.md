@@ -5,7 +5,7 @@
 <img src="img/微信图片_20230908090442.jpg" width="50%" >
 > LLMs 九层妖塔 挑战赛交流群 (注：人满 可 添加 小编wx：yzyykm666 加群！)
 
-<img src="img/微信截图_20210301212242.jpg" width="50%" >
+<img src="img/微信截图_20210301212242.png" width="50%" >
 
 ## [大模型（LLMs）基础面](https://articles.zsxq.com/id_zpsd43wksbp2.html)
 
