@@ -2,14 +2,14 @@
 
 > 介绍：本项目是作者们根据个人面试和经验总结出的 大模型(LLMs)面试准备的学习笔记与资料，该资料目前包含 大模型(LLMs)各领域的 面试题积累。
 
-## 大模型（LLMs）基础面
+## [大模型（LLMs）基础面](https://articles.zsxq.com/id_zpsd43wksbp2.html)
 
 1. 目前 主流的开源模型体系 有哪些？
 2. prefix LM 和 causal LM 区别是什么？
 3. 涌现能力是啥原因？
 4. 大模型LLM的架构介绍？
 
-## 大模型（LLMs）进阶面
+## [大模型（LLMs）进阶面](https://articles.zsxq.com/id_i5m3wfkdzwq9.html)
 
 1. LLMs 复读机问题
    1. 什么是 LLMs 复读机问题？
@@ -21,7 +21,7 @@
 4. 各个专业领域是否需要各自的大模型来服务？
 5. 如何让大模型处理更长的文本？
 
-## 大模型（LLMs）微调面
+## [大模型（LLMs）微调面](https://articles.zsxq.com/id_u62mcnga3jkd.html)
 
 1. 如果想要在某个模型基础上做全参数微调，究竟需要多少显存？
 2. 为什么SFT之后感觉LLM傻了?
@@ -49,7 +49,7 @@
 
 ## 大模型（LLMs）langchain 面
 
-### 大模型（LLMs）langchain 面
+### [大模型（LLMs）langchain 面](https://articles.zsxq.com/id_ve2dgaiqrjzv.html)
 
 1. 什么是 LangChain?
 2. LangChain 包含哪些 核心概念？
@@ -78,7 +78,7 @@
    5.  LangChain 缺乏标准的可互操作数据类型问题
 10. LangChain 替代方案？
 
-### 基于LLM+向量库的文档对话 经验面
+### [基于LLM+向量库的文档对话 经验面](https://articles.zsxq.com/id_dfwoe4vgpang.html)
 
 1. 基于LLM+向量库的文档对话 基础面
    1. LLMs 存在模型幻觉问题，请问如何处理？
@@ -95,7 +95,7 @@
    1. 本地知识库问答系统（Langchain-chatGLM）
       1. 避坑记录
 
-## 大模型（LLMs）参数高效微调(PEFT) 面
+## [大模型（LLMs）参数高效微调(PEFT) 面](https://articles.zsxq.com/id_ahk2br3igwx9.html)
 
 1. 微调方法是啥？如何微调？
 2. LoRA 篇
@@ -108,7 +108,7 @@
    1. 微调方法批处理大小模式GPU显存速度
    2. Peft 和 全量微调区别？
 
-## 大模型（LLMs）推理面
+## [大模型（LLMs）推理面](https://articles.zsxq.com/id_64vc5vvwpobv.html)
 
 1. 为什么大模型推理时显存涨的那么多还一直占着？
 2. 大模型在gpu和cpu上推理速度如何？
@@ -119,20 +119,20 @@
 7. 如何让大模型输出合规化
 8. 应用模式变更
 
-## 大模型（LLMs）评测面
+## [大模型（LLMs）评测面](https://articles.zsxq.com/id_z3bis84sxb9x.html)
 
 1. 大模型怎么评测？
 2. 大模型的honest原则是如何实现的？模型如何判断回答的知识是训练过的已知的知识，怎么训练这种能力？
 
-## 大模型（LLMs）强化学习面
+## [大模型（LLMs）强化学习面](https://articles.zsxq.com/id_uru2bfwhg34c.html)
 
 1. 奖励模型需要和基础模型一致吗？
 
-## 大模型（LLMs）软硬件配置面
+## [大模型（LLMs）软硬件配置面](https://articles.zsxq.com/id_m5q8zk3wo84k.html)
 
 1. 建议的软件环境是什么？
 
-## 大模型（LLMs）训练集面
+## [大模型（LLMs）训练集面](https://articles.zsxq.com/id_jwvpaujrojtt.html)
 
 1. SFT（有监督微调）的数据集格式？
 2. RM（奖励模型）的数据格式？
@@ -142,7 +142,7 @@
 6. 有哪些大模型的训练集？
 7. 进行领域大模型预训练应用哪些数据集比较好？
 
-## 大模型（LLMs）显存问题面
+## [大模型（LLMs）显存问题面](https://articles.zsxq.com/id_jhiocx89p3su.html)
 
 1. 大模型大概有多大，模型文件有多大?
 2. 能否用4 * v100 32G训练vicuna 65b？
@@ -161,7 +161,7 @@
    7. 哪里看各类显卡算力比较？
    8. （torch profiler）如何查看自己的训练中通信开销？
 
-## 大模型（LLMs）分布式训练面
+## [大模型（LLMs）分布式训练面](https://articles.zsxq.com/id_lk1wnxtwnr9a.html)
 
 - 理论篇
   - 想要训练1个LLM，如果只想用1张显卡，那么对显卡的要求是什么？
@@ -186,11 +186,7 @@
   - 为什么 多机训练效率不如单机？
   - 多机训练不通，DeepSPeed配置问题
 
-## 大模型（LLMs）agent 面
+## [大模型（LLMs）agent 面](https://articles.zsxq.com/id_mzfogrjhkp17.html)
 
 1. 如何给LLM注入领域知识？
 2. 如果想要快速体验各种模型，该怎么办？
-
-
-
-
