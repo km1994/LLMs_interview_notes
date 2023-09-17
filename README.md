@@ -144,6 +144,10 @@
 ## [大模型（LLMs）强化学习面](https://articles.zsxq.com/id_uru2bfwhg34c.html)
 
 1. 奖励模型需要和基础模型一致吗？
+2. RLHF 在实践过程中存在哪些不足？
+3. 如何解决 人工产生的偏好数据集成本较高，很难量产问题？
+4. 如何解决三个阶段的训练（SFT->RM->PPO）过程较长，更新迭代较慢问题？
+5. 如何解决 PPO 的训练过程同时存在4个模型（2训练，2推理），对计算资源的要求较高 问题？
 
 - [点击查看答案](https://articles.zsxq.com/id_uru2bfwhg34c.html)
 
