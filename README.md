@@ -14,6 +14,8 @@
 3. 涌现能力是啥原因？
 4. 大模型LLM的架构介绍？
 
+- [点击查看答案](https://articles.zsxq.com/id_zpsd43wksbp2.html)
+
 ## [大模型（LLMs）进阶面](https://articles.zsxq.com/id_i5m3wfkdzwq9.html)
 
 1. LLMs 复读机问题
@@ -25,6 +27,8 @@
 3. 什么情况用Bert模型，什么情况用LLaMA、ChatGLM类大模型，咋选？
 4. 各个专业领域是否需要各自的大模型来服务？
 5. 如何让大模型处理更长的文本？
+
+- [点击查看答案](https://articles.zsxq.com/id_i5m3wfkdzwq9.html)
 
 ## [大模型（LLMs）微调面](https://articles.zsxq.com/id_u62mcnga3jkd.html)
 
@@ -51,6 +55,8 @@
 21. 样本量规模增大，训练出现OOM错
 22. 大模型LLM进行SFT 如何对样本进行优化？
 23. 模型参数迭代实验
+
+- [点击查看答案](https://articles.zsxq.com/id_u62mcnga3jkd.html)
 
 ## 大模型（LLMs）langchain 面
 
@@ -113,6 +119,8 @@
    1. 微调方法批处理大小模式GPU显存速度
    2. Peft 和 全量微调区别？
 
+- [点击查看答案](https://articles.zsxq.com/id_ahk2br3igwx9.html)
+
 ## [大模型（LLMs）推理面](https://articles.zsxq.com/id_64vc5vvwpobv.html)
 
 1. 为什么大模型推理时显存涨的那么多还一直占着？
@@ -124,18 +132,26 @@
 7. 如何让大模型输出合规化
 8. 应用模式变更
 
+- [点击查看答案](https://articles.zsxq.com/id_64vc5vvwpobv.html)
+
 ## [大模型（LLMs）评测面](https://articles.zsxq.com/id_z3bis84sxb9x.html)
 
 1. 大模型怎么评测？
 2. 大模型的honest原则是如何实现的？模型如何判断回答的知识是训练过的已知的知识，怎么训练这种能力？
 
+- [点击查看答案](https://articles.zsxq.com/id_z3bis84sxb9x.html)
+
 ## [大模型（LLMs）强化学习面](https://articles.zsxq.com/id_uru2bfwhg34c.html)
 
 1. 奖励模型需要和基础模型一致吗？
 
+- [点击查看答案](https://articles.zsxq.com/id_uru2bfwhg34c.html)
+
 ## [大模型（LLMs）软硬件配置面](https://articles.zsxq.com/id_m5q8zk3wo84k.html)
 
 1. 建议的软件环境是什么？
+
+- [点击查看答案](https://articles.zsxq.com/id_m5q8zk3wo84k.html)
 
 ## [大模型（LLMs）训练集面](https://articles.zsxq.com/id_jwvpaujrojtt.html)
 
@@ -146,6 +162,8 @@
 5. 微调需要多少条数据？
 6. 有哪些大模型的训练集？
 7. 进行领域大模型预训练应用哪些数据集比较好？
+
+- [点击查看答案](https://articles.zsxq.com/id_jwvpaujrojtt.html)
 
 ## [大模型（LLMs）显存问题面](https://articles.zsxq.com/id_jhiocx89p3su.html)
 
@@ -165,6 +183,8 @@
    6. tf32格式有多长？
    7. 哪里看各类显卡算力比较？
    8. （torch profiler）如何查看自己的训练中通信开销？
+
+- [点击查看答案](https://articles.zsxq.com/id_jhiocx89p3su.html)
 
 ## [大模型（LLMs）分布式训练面](https://articles.zsxq.com/id_lk1wnxtwnr9a.html)
 
@@ -191,7 +211,11 @@
   - 为什么 多机训练效率不如单机？
   - 多机训练不通，DeepSPeed配置问题
 
+- [点击查看答案](https://articles.zsxq.com/id_lk1wnxtwnr9a.html)
+
 ## [大模型（LLMs）agent 面](https://articles.zsxq.com/id_mzfogrjhkp17.html)
 
 1. 如何给LLM注入领域知识？
 2. 如果想要快速体验各种模型，该怎么办？
+
+- [点击查看答案](https://articles.zsxq.com/id_mzfogrjhkp17.html)
