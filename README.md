@@ -37,9 +37,9 @@
 
 - [点击查看答案](https://articles.zsxq.com/id_v6gltxd4qbxd.html)
 
-## [大模型（LLMs）微调面](https://articles.zsxq.com/id_khze6sgassi3.html)
+## [大模型（LLMs）微调面](https://articles.zsxq.com/id_vc9u9pmoman6.html)
 
-### [大模型（LLMs）微调面](https://articles.zsxq.com/id_khze6sgassi3.html)
+### [大模型（LLMs）微调面](https://articles.zsxq.com/id_vc9u9pmoman6.html)
 
 1. 如果想要在某个模型基础上做全参数微调，究竟需要多少显存？
 2. 为什么SFT之后感觉LLM傻了?
@@ -67,7 +67,7 @@
 24. 微调大模型的一些建议
 25. ...
 
-- [点击查看答案](https://articles.zsxq.com/id_khze6sgassi3.html)
+- [点击查看答案](https://articles.zsxq.com/id_vc9u9pmoman6.html)
 
 ### [大模型（LLMs）训练经验帖](https://articles.zsxq.com/id_06n25d9wjs0e.html)
 
@@ -113,7 +113,7 @@
 
 - [点击查看答案](https://articles.zsxq.com/id_ve2dgaiqrjzv.html)
 
-### [基于LLM+向量库的文档对话 经验面](https://articles.zsxq.com/id_m9t1w8pokjpf.html)
+### [基于LLM+向量库的文档对话 经验面](https://articles.zsxq.com/id_xk58m8ok2sob.html)
 
 - 一、基于LLM+向量库的文档对话 基础面
   - 1.1 为什么 大模型 需要 外挂(向量)知识库？
@@ -124,7 +124,7 @@
 - 三、基于LLM+向量库的文档对话 工程示例面
 - ...
 
-- [点击查看答案](https://articles.zsxq.com/id_m9t1w8pokjpf.html)
+- [点击查看答案](https://articles.zsxq.com/id_xk58m8ok2sob.html)
 
 ### [LLM文档对话 —— pdf解析关键问题](https://articles.zsxq.com/id_2693k55it84w.html)
 
@@ -141,20 +141,6 @@
 - ...
 
 - [点击查看答案](https://articles.zsxq.com/id_2693k55it84w.html)
-
-### [基于LLM+向量库的文档对话 经验面](https://articles.zsxq.com/id_m9t1w8pokjpf.html)
-
-- 一、基于LLM+向量库的文档对话 基础面
-  - 1.1 为什么 大模型 需要 外挂(向量)知识库？
-  - 1.2. 基于LLM+向量库的文档对话 思路是怎么样？
-  - 1.3. 基于LLM+向量库的文档对话 核心技术是什么？
-  - 1.4. 基于LLM+向量库的文档对话 prompt 模板 如何构建？
-- 二、基于LLM+向量库的文档对话 存在哪些痛点？
-- 三、基于LLM+向量库的文档对话 工程示例面
-- ...
-
-- [点击查看答案](https://articles.zsxq.com/id_m9t1w8pokjpf.html)
-
 
 ## [大模型（LLMs）参数高效微调(PEFT) 面](https://articles.zsxq.com/id_ahk2br3igwx9.html)
 
